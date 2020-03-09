@@ -19,4 +19,4 @@ IMG (%) = (1.61∗IMC) + (0.13∗Age) − (12.1∗Sexe) − 13.9
 
 Nous avons choisi, sur cette page, d’appliquer la première formule parmi les quatres car c’est la plus utilisée. C’est une formule dont l’origine remonte à 1991 (1).
 
-- Utilisation de Sqlite pour la persistance 
+- Utilisation de Sqlite pour la persistance des données en local
